@@ -1,0 +1,472 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/adamy/AppData/Local/Temp/Rtmp0wG9Wh/preview-1ba4426b6a7b.html
+Subject: 
+Date: Fri, 2 Dec 2022 18:17:25 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--G2o96WYfWTl6wIOdAe4OAqOYwClLNf3nT2fiiJtAl6----"
+
+
+------MultipartBoundary--G2o96WYfWTl6wIOdAe4OAqOYwClLNf3nT2fiiJtAl6----
+Content-Type: text/html
+Content-ID: <frame-70124CA62885420382DBAB2DB0C7C6DB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/adamy/AppData/Local/Temp/Rtmp0wG9Wh/preview-1ba4426b6a7b.html
+
+<!DOCTYPE html><html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta htt=
+p-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c8bede30-fe50-4af8-8676-f=
+067c4dc8887@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-04bead55-8445-40d8-86d0-da9343b7cebb@mhtml.blink" />
+
+
+
+<meta name=3D"generator" content=3D"pandoc">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+
+
+
+
+
+</head>
+
+<body>
+
+<h1 id=3D"lt1_adamyajain_2022h1540803p">LT1_AdamyaJain_2022H1540803P.</h1>
+<p>Adamya 2022-11-17</p>
+<h2></h2>
+<h1 id=3D"python--r-in-markdown-file"><strong>Python &amp; R in markdown
+file</strong></h1>
+<h2 id=3D"running-r-inside-rmarkdown"><strong>Running R inside
+Rmarkdown</strong></h2>
+<p>R &amp; Rstudio can be used to run Python code as well, for this you
+need to have the python interpreter installed in your system. Here is a
+r markdown file which runs both R &amp; Python.</p>
+<div class=3D"sourceCode" id=3D"cb1"><pre class=3D"sourceCode r"><code clas=
+s=3D"sourceCode r"><span id=3D"cb1-1"><a href=3D"file:///C:/Users/adamy/App=
+Data/Local/Temp/Rtmp0wG9Wh/preview-1ba4426b6a7b.html#cb1-1" aria-hidden=3D"=
+true" tabindex=3D"-1"></a><span class=3D"cf">for</span>(i <span class=3D"cf=
+">in</span> <span class=3D"dv">1</span><span class=3D"sc">:</span><span cla=
+ss=3D"dv">3</span>){ <span class=3D"co"># R syntax to implement a for loop<=
+/span></span>
+<span id=3D"cb1-2"><a href=3D"file:///C:/Users/adamy/AppData/Local/Temp/Rtm=
+p0wG9Wh/preview-1ba4426b6a7b.html#cb1-2" aria-hidden=3D"true" tabindex=3D"-=
+1"></a>    i <span class=3D"ot">=3D</span> i <span class=3D"sc">+</span> <s=
+pan class=3D"dv">1</span> <span class=3D"co"># R's syntax for increment by =
+1</span></span>
+<span id=3D"cb1-3"><a href=3D"file:///C:/Users/adamy/AppData/Local/Temp/Rtm=
+p0wG9Wh/preview-1ba4426b6a7b.html#cb1-3" aria-hidden=3D"true" tabindex=3D"-=
+1"></a>    <span class=3D"fu">cat</span>(i,<span class=3D"st">'</span><span=
+ class=3D"sc">\n</span><span class=3D"st">'</span>)}</span></code></pre></d=
+iv>
+<pre><code>## 2=20
+## 3=20
+## 4</code></pre>
+<h2 id=3D"running-python-inside-rmarkdown"><strong>Running Python inside
+Rmarkdown</strong></h2>
+<div class=3D"sourceCode" id=3D"cb3"><pre class=3D"sourceCode python"><code=
+ class=3D"sourceCode python"><span id=3D"cb3-1"><a href=3D"file:///C:/Users=
+/adamy/AppData/Local/Temp/Rtmp0wG9Wh/preview-1ba4426b6a7b.html#cb3-1" aria-=
+hidden=3D"true" tabindex=3D"-1"></a><span class=3D"cf">for</span> i <span c=
+lass=3D"kw">in</span> <span class=3D"bu">range</span>(<span class=3D"dv">1<=
+/span>,<span class=3D"dv">4</span>): <span class=3D"co"># For loop for rang=
+e 2 to 4</span></span>
+<span id=3D"cb3-2"><a href=3D"file:///C:/Users/adamy/AppData/Local/Temp/Rtm=
+p0wG9Wh/preview-1ba4426b6a7b.html#cb3-2" aria-hidden=3D"true" tabindex=3D"-=
+1"></a>    i <span class=3D"op">+=3D</span> <span class=3D"dv">1</span> <sp=
+an class=3D"co"># Python allows shorthand increment syntax</span></span>
+<span id=3D"cb3-3"><a href=3D"file:///C:/Users/adamy/AppData/Local/Temp/Rtm=
+p0wG9Wh/preview-1ba4426b6a7b.html#cb3-3" aria-hidden=3D"true" tabindex=3D"-=
+1"></a>    <span class=3D"bu">print</span>(i)</span></code></pre></div>
+<pre><code>## 2
+## 3
+## 4</code></pre>
+
+
+
+</body></html>
+------MultipartBoundary--G2o96WYfWTl6wIOdAe4OAqOYwClLNf3nT2fiiJtAl6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c8bede30-fe50-4af8-8676-f067c4dc8887@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: octicons-link; src: url("data:font/woff;charset=
+=3Dutf-8;base64,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3D=3D") format("woff"); }
+
+body { text-size-adjust: 100%; color: rgb(51, 51, 51); font-family: "Helvet=
+ica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color=
+ Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 16px; line-height:=
+ 1.6; overflow-wrap: break-word; }
+
+a { background-color: transparent; }
+
+a:active, a:hover { outline: 0px; }
+
+strong { font-weight: bold; }
+
+h1 { font-size: 2em; margin: 0.67em 0px; }
+
+img { border: 0px; }
+
+hr { box-sizing: content-box; height: 0px; }
+
+pre { overflow: auto; }
+
+code, kbd, pre { font-family: monospace, monospace; font-size: 1em; }
+
+input { color: inherit; font: inherit; margin: 0px; }
+
+html input[disabled] { cursor: default; }
+
+input { line-height: normal; }
+
+input[type=3D"checkbox"] { box-sizing: border-box; padding: 0px; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+td, th { padding: 0px; }
+
+* { box-sizing: border-box; }
+
+input { font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, fre=
+esans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI =
+Symbol"; }
+
+a { color: rgb(64, 120, 192); text-decoration: none; }
+
+a:hover, a:active { text-decoration: underline; }
+
+hr { height: 0px; margin: 15px 0px; overflow: hidden; background: transpare=
+nt; border-width: 0px 0px 1px; border-top-style: initial; border-right-styl=
+e: initial; border-left-style: initial; border-top-color: initial; border-r=
+ight-color: initial; border-left-color: initial; border-image: initial; bor=
+der-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); }
+
+hr::before { display: table; content: ""; }
+
+hr::after { display: table; clear: both; content: ""; }
+
+h1, h2, h3, h4, h5, h6 { margin-top: 15px; margin-bottom: 15px; line-height=
+: 1.1; }
+
+h1 { font-size: 30px; }
+
+h2 { font-size: 21px; }
+
+h3 { font-size: 16px; }
+
+h4 { font-size: 14px; }
+
+h5 { font-size: 12px; }
+
+h6 { font-size: 11px; }
+
+blockquote { margin: 0px; }
+
+ul, ol { padding: 0px; margin-top: 0px; margin-bottom: 0px; }
+
+ol ol, ul ol { list-style-type: lower-roman; }
+
+ul ul ol, ul ol ol, ol ul ol, ol ol ol { list-style-type: lower-alpha; }
+
+dd { margin-left: 0px; }
+
+code { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;=
+ font-size: 12px; }
+
+pre { margin-top: 0px; margin-bottom: 0px; font: 12px Consolas, "Liberation=
+ Mono", Menlo, Courier, monospace; }
+
+.octicon { font: 16px / 1 octicons-link; display: inline-block; text-decora=
+tion: none; text-rendering: auto; -webkit-font-smoothing: antialiased; user=
+-select: none; }
+
+.octicon-link::before { content: "=EF=81=9C"; }
+
+.markdown-body::before { display: table; content: ""; }
+
+.markdown-body::after { display: table; clear: both; content: ""; }
+
+.markdown-body > :first-child { margin-top: 0px !important; }
+
+.markdown-body > :last-child { margin-bottom: 0px !important; }
+
+a:not([href]) { color: inherit; text-decoration: none; }
+
+.anchor { display: inline-block; padding-right: 2px; margin-left: -18px; }
+
+.anchor:focus { outline: none; }
+
+h1, h2, h3, h4, h5, h6 { margin-top: 1em; margin-bottom: 16px; font-weight:=
+ bold; line-height: 1.4; }
+
+h1 .octicon-link, h2 .octicon-link, h3 .octicon-link, h4 .octicon-link, h5 =
+.octicon-link, h6 .octicon-link { color: rgb(0, 0, 0); vertical-align: midd=
+le; visibility: hidden; }
+
+h1:hover .anchor, h2:hover .anchor, h3:hover .anchor, h4:hover .anchor, h5:=
+hover .anchor, h6:hover .anchor { text-decoration: none; }
+
+h1:hover .anchor .octicon-link, h2:hover .anchor .octicon-link, h3:hover .a=
+nchor .octicon-link, h4:hover .anchor .octicon-link, h5:hover .anchor .octi=
+con-link, h6:hover .anchor .octicon-link { visibility: visible; }
+
+h1 { padding-bottom: 0.3em; font-size: 2.25em; line-height: 1.2; border-bot=
+tom: 1px solid rgb(238, 238, 238); }
+
+h1 .anchor { line-height: 1; }
+
+h2 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-b=
+ottom: 1px solid rgb(238, 238, 238); }
+
+h2 .anchor { line-height: 1; }
+
+h3 { font-size: 1.5em; line-height: 1.43; }
+
+h3 .anchor { line-height: 1.2; }
+
+h4 { font-size: 1.25em; }
+
+h4 .anchor { line-height: 1.2; }
+
+h5 { font-size: 1em; }
+
+h5 .anchor { line-height: 1.1; }
+
+h6 { font-size: 1em; color: rgb(119, 119, 119); }
+
+h6 .anchor { line-height: 1.1; }
+
+p, blockquote, ul, ol, dl, table, pre { margin-top: 0px; margin-bottom: 16p=
+x; }
+
+hr { height: 4px; padding: 0px; margin: 16px 0px; background-color: rgb(231=
+, 231, 231); border: 0px none; }
+
+ul, ol { padding-left: 2em; }
+
+ul ul, ul ol, ol ol, ol ul { margin-top: 0px; margin-bottom: 0px; }
+
+li > p { margin-top: 16px; }
+
+dl { padding: 0px; }
+
+dl dt { padding: 0px; margin-top: 16px; font-size: 1em; font-style: italic;=
+ font-weight: bold; }
+
+dl dd { padding: 0px 16px; margin-bottom: 16px; }
+
+blockquote { padding: 0px 15px; color: rgb(119, 119, 119); border-left: 4px=
+ solid rgb(221, 221, 221); }
+
+blockquote > :first-child { margin-top: 0px; }
+
+blockquote > :last-child { margin-bottom: 0px; }
+
+table { display: block; width: 100%; overflow: auto; word-break: keep-all; =
+}
+
+table th { font-weight: bold; }
+
+table th, table td { padding: 6px 13px; border: 1px solid rgb(221, 221, 221=
+); }
+
+table tr { background-color: rgb(255, 255, 255); border-top: 1px solid rgb(=
+204, 204, 204); }
+
+table tr:nth-child(2n) { background-color: rgb(248, 248, 248); }
+
+img { max-width: 100%; box-sizing: content-box; background-color: rgb(255, =
+255, 255); }
+
+code { padding: 0.2em 0px; margin: 0px; font-size: 85%; background-color: r=
+gba(0, 0, 0, 0.04); border-radius: 3px; }
+
+code::before, code::after { letter-spacing: -0.2em; content: "=C2=A0"; }
+
+pre > code { padding: 0px; margin: 0px; font-size: 100%; word-break: normal=
+; white-space: pre; background: transparent; border: 0px; }
+
+.highlight { margin-bottom: 16px; }
+
+.highlight pre, pre { padding: 16px; overflow: auto; font-size: 85%; line-h=
+eight: 1.45; background-color: rgb(247, 247, 247); border-radius: 3px; }
+
+.highlight pre { margin-bottom: 0px; word-break: normal; }
+
+pre { overflow-wrap: normal; }
+
+pre code { display: inline; max-width: initial; padding: 0px; margin: 0px; =
+overflow: initial; line-height: inherit; overflow-wrap: normal; background-=
+color: transparent; border: 0px; }
+
+pre code::before, pre code::after { content: normal; }
+
+kbd { display: inline-block; padding: 3px 5px; font-size: 11px; line-height=
+: 10px; color: rgb(85, 85, 85); vertical-align: middle; background-color: r=
+gb(252, 252, 252); border-width: 1px; border-style: solid; border-color: rg=
+b(204, 204, 204) rgb(204, 204, 204) rgb(187, 187, 187); border-image: initi=
+al; border-radius: 3px; box-shadow: rgb(187, 187, 187) 0px -1px 0px inset; =
+}
+
+.pl-c { color: rgb(150, 152, 150); }
+
+.pl-c1, .pl-s .pl-v { color: rgb(0, 134, 179); }
+
+.pl-e, .pl-en { color: rgb(121, 93, 163); }
+
+.pl-s .pl-s1, .pl-smi { color: rgb(51, 51, 51); }
+
+.pl-ent { color: rgb(99, 163, 92); }
+
+.pl-k { color: rgb(167, 29, 93); }
+
+.pl-pds, .pl-s, .pl-s .pl-pse .pl-s1, .pl-sr, .pl-sr .pl-cce, .pl-sr .pl-sr=
+a, .pl-sr .pl-sre { color: rgb(24, 54, 145); }
+
+.pl-v { color: rgb(237, 106, 67); }
+
+.pl-id { color: rgb(181, 42, 29); }
+
+.pl-ii { background-color: rgb(181, 42, 29); color: rgb(248, 248, 248); }
+
+.pl-sr .pl-cce { color: rgb(99, 163, 92); font-weight: bold; }
+
+.pl-ml { color: rgb(105, 58, 23); }
+
+.pl-mh, .pl-mh .pl-en, .pl-ms { color: rgb(29, 62, 129); font-weight: bold;=
+ }
+
+.pl-mq { color: rgb(0, 128, 128); }
+
+.pl-mi { color: rgb(51, 51, 51); font-style: italic; }
+
+.pl-mb { color: rgb(51, 51, 51); font-weight: bold; }
+
+.pl-md { background-color: rgb(255, 236, 236); color: rgb(189, 44, 0); }
+
+.pl-mi1 { background-color: rgb(234, 255, 234); color: rgb(85, 165, 50); }
+
+.pl-mdr { color: rgb(121, 93, 163); font-weight: bold; }
+
+.pl-mo { color: rgb(29, 62, 129); }
+
+kbd { display: inline-block; padding: 3px 5px; font: 11px / 10px Consolas, =
+"Liberation Mono", Menlo, Courier, monospace; color: rgb(85, 85, 85); verti=
+cal-align: middle; background-color: rgb(252, 252, 252); border-width: 1px;=
+ border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) r=
+gb(187, 187, 187); border-image: initial; border-radius: 3px; box-shadow: r=
+gb(187, 187, 187) 0px -1px 0px inset; }
+
+.task-list-item { list-style-type: none; }
+
+.task-list-item + .task-list-item { margin-top: 3px; }
+
+.task-list-item input { margin: 0px 0.35em 0.25em -1.6em; vertical-align: m=
+iddle; }
+
+:checked + .radio-label { z-index: 1; position: relative; border-color: rgb=
+(64, 120, 192); }
+
+.sourceLine { display: inline-block; }
+
+code .kw { color: rgb(0, 0, 0); }
+
+code .dt { color: rgb(237, 106, 67); }
+
+code .dv { color: rgb(0, 153, 153); }
+
+code .bn { color: rgb(0, 153, 153); }
+
+code .fl { color: rgb(0, 153, 153); }
+
+code .ch { color: rgb(0, 153, 153); }
+
+code .st { color: rgb(24, 54, 145); }
+
+code .co { color: rgb(150, 152, 150); }
+
+code .ot { color: rgb(0, 134, 179); }
+
+code .al { color: rgb(166, 23, 23); }
+
+code .fu { color: rgb(99, 163, 92); }
+
+code .er { color: rgb(166, 23, 23); background-color: rgb(227, 210, 210); }
+
+code .wa { color: rgb(0, 0, 0); }
+
+code .cn { color: rgb(0, 128, 128); }
+
+code .sc { color: rgb(0, 128, 128); }
+
+code .vs { color: rgb(24, 54, 145); }
+
+code .ss { color: rgb(24, 54, 145); }
+
+code .im { color: rgb(0, 0, 0); }
+
+code .va { color: rgb(0, 128, 128); }
+
+code .cf { color: rgb(0, 0, 0); }
+
+code .op { color: rgb(0, 0, 0); }
+
+code .bu { color: rgb(0, 0, 0); }
+
+code .ex { color: rgb(0, 0, 0); }
+
+code .pp { color: rgb(153, 153, 153); }
+
+code .at { color: rgb(0, 128, 128); }
+
+code .do { color: rgb(150, 152, 150); }
+
+code .an { color: rgb(0, 128, 128); }
+
+code .cv { color: rgb(0, 128, 128); }
+
+code .in { color: rgb(0, 128, 128); }
+------MultipartBoundary--G2o96WYfWTl6wIOdAe4OAqOYwClLNf3nT2fiiJtAl6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-04bead55-8445-40d8-86d0-da9343b7cebb@mhtml.blink
+
+@charset "utf-8";
+
+body { box-sizing: border-box; min-width: 200px; max-width: 980px; margin: =
+0px auto; padding: 0px 45px 45px; }
+------MultipartBoundary--G2o96WYfWTl6wIOdAe4OAqOYwClLNf3nT2fiiJtAl6------
